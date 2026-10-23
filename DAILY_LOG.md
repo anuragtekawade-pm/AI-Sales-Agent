@@ -8,9 +8,9 @@
 
 ### Task 2: Initial Problem Hypothesis
 - [x] Defined the target customer segment.
-- [ ] Documented the suspected problem and current workflow.
-- [ ] Listed assumptions to validate.
-- [ ] Defined evidence that could disprove the hypothesis.
+- [x] Documented the suspected problem and current workflow.
+- [x] Listed assumptions to validate.
+- [x] Defined evidence that could disprove the hypothesis.
 - [x] Commit the hypothesis to docs/INITIAL_PROBLEM_HYPOTHESIS.md.
 
 ### Key Learning
