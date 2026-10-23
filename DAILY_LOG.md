@@ -8,10 +8,10 @@
 
 ### Task 2: Initial Problem Hypothesis
 - [x] Defined the target customer segment.
-- [] Documented the suspected problem and current workflow.
-- [] Listed assumptions to validate.
-- [] Defined evidence that could disprove the hypothesis.
-- [ ] Commit the hypothesis to docs/INITIAL_PROBLEM_HYPOTHESIS.md.
+- [ ] Documented the suspected problem and current workflow.
+- [ ] Listed assumptions to validate.
+- [ ] Defined evidence that could disprove the hypothesis.
+- [x] Commit the hypothesis to docs/INITIAL_PROBLEM_HYPOTHESIS.md.
 
 ### Key Learning
 A problem hypothesis is a set of assumptions to test, not proof that a problem exists.
