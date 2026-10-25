@@ -12,12 +12,15 @@
 - [x] Listed assumptions to validate.
 - [x] Defined evidence that could disprove the hypothesis.
 - [x] Commit the hypothesis to docs/INITIAL_PROBLEM_HYPOTHESIS.md.
-
-### Key Learning
-A problem hypothesis is a set of assumptions to test, not proof that a problem exists.
+      
+ ### Task 3: Interview Prospect List
+- [ ] Identified 10 potential interview prospects.
+- [ ] Recorded publicly listed contact routes.
+- [ ] Documented outreach and interview tracking fields.
+- [ ] Contacted prospects.
+- [ ] Scheduled customer interviews.
 
 ### Next Steps
-- Build a prospect list of 10 coaching institutes or training centres.
 - Prepare open-ended customer interview questions.
 - Validate the problem before committing to a solution.
 
